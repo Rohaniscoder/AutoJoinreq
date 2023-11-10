@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/FarzanGit/jerry",
-    "repository": "https://github.com/FarzanGit/jerry",
+    "website": "https://github.com/Rohaniscoder/AutoJoinreq",
+    "repository": "https://github.com/Rohaniscoder/AutoJoinreq",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
